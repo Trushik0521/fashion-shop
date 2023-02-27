@@ -1,8 +1,9 @@
-Fashion shop
-Make Fashion shopp Website using HTML/CSS/javascript.
+# fashion-shop
 
-Demo: https://trushik0521.github.io/Fashion-shop/
+# fashion-shop Website HTML/CSS/JAVASCRIPT
 
-![Fashion_shop](https://github.com/Trushik0521/Fashion-shop/blob/main/images/fashion.png)
+### Demo: https://trushik0521.github.io/fashion-shop/
 
-Give a ⭐️ if you like this project!
+![Coffe-shop](https://github.com/Trushik0521/coffee-shop/blob/main/Preview.png)
+
+🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
